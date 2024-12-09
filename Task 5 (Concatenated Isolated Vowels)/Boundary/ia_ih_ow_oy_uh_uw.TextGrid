@@ -1,0 +1,70 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.0166213151927437 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "IA_IH_OW_OY_UH_UW" 
+        xmin = 0 
+        xmax = 2.0166213151927437 
+        intervals: size = 14 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3702646130669262 
+            text = "ia" 
+        intervals [2]:
+            xmin = 0.3702646130669262 
+            xmax = 0.3714450867848345 
+            text = "" 
+        intervals [3]:
+            xmin = 0.3714450867848345 
+            xmax = 0.5201847752412826 
+            text = "ih" 
+        intervals [4]:
+            xmin = 0.5201847752412826 
+            xmax = 0.5225457226770992 
+            text = "" 
+        intervals [5]:
+            xmin = 0.5225457226770992 
+            xmax = 0.5520575656248071 
+            text = "sil" 
+        intervals [6]:
+            xmin = 0.5520575656248071 
+            xmax = 0.5532380393427154 
+            text = "" 
+        intervals [7]:
+            xmin = 0.5532380393427154 
+            xmax = 0.8861316277928609 
+            text = "ow" 
+        intervals [8]:
+            xmin = 0.8861316277928609 
+            xmax = 0.8873121015107693 
+            text = "" 
+        intervals [9]:
+            xmin = 0.8873121015107693 
+            xmax = 1.172986741244582 
+            text = "oy" 
+        intervals [10]:
+            xmin = 1.172986741244582 
+            xmax = 1.176528162398307 
+            text = "" 
+        intervals [11]:
+            xmin = 1.176528162398307 
+            xmax = 1.2143033213713732 
+            text = "sil" 
+        intervals [12]:
+            xmin = 1.2143033213713732 
+            xmax = 1.2190252162430064 
+            text = "" 
+        intervals [13]:
+            xmin = 1.2190252162430064 
+            xmax = 1.6133034380243845 
+            text = "uh" 
+        intervals [14]:
+            xmin = 1.6133034380243845 
+            xmax = 2.0166213151927437 
+            text = "uw" 
